@@ -1,0 +1,288 @@
+{
+  "version": 1,
+  "base_track": "Until I Found You",
+  "base_artist": "Stephen Sanchez",
+  "createdAt": "2026-02-17T10:02:53.154960Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/01_Until_I_Found_You_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/02_Until_I_Found_You_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stevie Hoang",
+      "has_synced": true,
+      "path": "select/03_Until_I_Found_You_Stevie_Hoang.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Until I found you",
+      "artist": "Stacie Orrico",
+      "has_synced": false,
+      "path": "select/04_Until_I_found_you_Stacie_Orrico.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/05_Until_I_Found_You_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Shania Yan",
+      "has_synced": true,
+      "path": "select/06_Until_I_Found_You_Shania_Yan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/07_Until_I_Found_You_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/08_Until_I_Found_You_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "until i found you (Gustixa version)",
+      "artist": "Gustixa",
+      "has_synced": false,
+      "path": "select/09_until_i_found_you_(Gustixa_version)_Gustixa.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/10_Until_I_Found_You_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Aaron Hall",
+      "has_synced": false,
+      "path": "select/11_Until_I_Found_You_Aaron_Hall.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Until I Found You (Acoustic)",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/12_Until_I_Found_You_(Acoustic)_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/13_Until_I_Found_You_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Until I Found You (Piano Version)",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/14_Until_I_Found_You_(Piano_Version)_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/15_Until_I_Found_You_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/16_Until_I_Found_You_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/17_Until_I_Found_You_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/18_Until_I_Found_You_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "artist": "Stephen Sanchez feat. Em Beihold",
+      "has_synced": true,
+      "path": "select/19_Until_I_Found_You_(with_Em_Beihold)_-_Em_Beihold_Version_Stephen_Sanchez_feat._Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/20_Until_I_Found_You_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Until I Found You - Piano Version",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/21_Until_I_Found_You_-_Piano_Version_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/22_Until_I_Found_You_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/23_Until_I_Found_You_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "artist": "Stephen Sanchez/Em Beihold",
+      "has_synced": true,
+      "path": "select/24_Until_I_Found_You_(with_Em_Beihold)_-_Em_Beihold_Version_Stephen_Sanchez_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/25_Until_I_Found_You_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Until I Found You (Em Beihold Version)",
+      "artist": "Stephen Sanchez & Em Beihold",
+      "has_synced": true,
+      "path": "select/26_Until_I_Found_You_(Em_Beihold_Version)_Stephen_Sanchez_&_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Until I Found You (Em Beihold version)",
+      "artist": "Stephen Sanchez, Em Beihold",
+      "has_synced": true,
+      "path": "select/27_Until_I_Found_You_(Em_Beihold_version)_Stephen_Sanchez,_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Until I Found You - Acoustic",
+      "artist": "Felix Irwan",
+      "has_synced": false,
+      "path": "select/28_Until_I_Found_You_-_Acoustic_Felix_Irwan.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Felix Irwan",
+      "has_synced": false,
+      "path": "select/29_Until_I_Found_You_Felix_Irwan.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Until I Found You (Em Beihold Version)",
+      "artist": "Stephen Sanchez, Em Beihold",
+      "has_synced": true,
+      "path": "select/30_Until_I_Found_You_(Em_Beihold_Version)_Stephen_Sanchez,_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Until I Found You (Piano Version)",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/31_Until_I_Found_You_(Piano_Version)_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Until I Found You (Em Beihold Version)",
+      "artist": "Stephen Sanchez",
+      "has_synced": true,
+      "path": "select/32_Until_I_Found_You_(Em_Beihold_Version)_Stephen_Sanchez.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez & Em Beihold",
+      "has_synced": true,
+      "path": "select/33_Until_I_Found_You_Stephen_Sanchez_&_Em_Beihold.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Until I Found You",
+      "artist": "Triston Marez",
+      "has_synced": true,
+      "path": "select/34_Until_I_Found_You_Triston_Marez.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "has_synced": false,
+      "path": "select/pl_01_Until_I_Found_You_Stephen_Sanchez.txt"
+    }
+  ]
+}
